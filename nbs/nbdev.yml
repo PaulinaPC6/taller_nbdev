@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "taller_nbdev"
+  site-url: "https://PaulinaPC6.github.io/taller_nbdev"
+  description: "Ejemplo simple"
+  repo-branch: main
+  repo-url: "https://github.com/PaulinaPC6/taller_nbdev"
