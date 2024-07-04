@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "taller_nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.\nA partir de este notebook se gebera el README del repositorio y tambien el índice de la documentación\nHOW TO USE IT?\nEs un simple eejmplo de como se usan las celdas de código:\nprint(‘Hola Mundo’)",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "taller_nbdev",
+    "section": "Install",
+    "text": "Install\npip install taller_nbdev",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "taller_nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo (var_boo)\n\nEsta función no hace nada\n\nVeamos como funciona\n\n\n  Cell In[7], line 1\n    Veamos como funciona\n           ^\nSyntaxError: invalid syntax\n\n\n\n\n\nfoo(True)\n\nEs verdadera\n\n\n\nfoo(False)\n\nEs falsa",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
