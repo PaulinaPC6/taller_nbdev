@@ -6,6 +6,15 @@
 This file will become your README and also the index of your
 documentation.
 
+A partir de este notebook se gebera el README del repositorio y tambien
+el índice de la documentación
+
+HOW TO USE IT?
+
+Es un simple eejmplo de como se usan las celdas de código:
+
+print(‘Hola Mundo’)
+
 ## Install
 
 ``` sh
